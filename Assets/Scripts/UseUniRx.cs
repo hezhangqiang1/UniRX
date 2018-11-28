@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * UniRX的基本格式
+ *
+ *
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UniRx;

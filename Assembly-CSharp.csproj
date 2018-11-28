@@ -51,6 +51,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\TimerUniRX.cs" />
+     <Compile Include="Assets\Scripts\UpdateUniRX.cs" />
      <Compile Include="Assets\Scripts\UseUniRx.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>G:/unity2017/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
