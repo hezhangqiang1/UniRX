@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/UniRx.unity
+- path: Assets/Scene/ReactiveProperty.unity
   isLoaded: 1
   isActive: 1
